@@ -97,6 +97,61 @@ I'm a Computer Science graduate with a strong foundation in software development
 
 ---
 
+---
+
+<div align="center">
+
+## 🚀 Featured Projects
+
+### 🌿 LYVRA | AI-Powered Healthy Life Coach Platform
+**🎓 Graduation Project**
+
+An AI-powered healthy life coach platform designed to support users in building healthier lifestyles through personalized guidance and smart features.
+
+**Role:** Backend Developer
+
+---
+
+### 🏥 Medical Management System
+**🏢 CCIC | Training Project**
+
+A medical management system developed during training, focusing on backend functionality, application logic, and database management.
+
+**Role:** Backend Developer
+
+---
+
+### 📚 Book Store
+**🏢 CCIC | Training Project**
+
+A bookstore web application developed during training, focusing on responsive user interfaces and providing a smooth user experience.
+
+**Role:** Frontend Developer
+
+---
+
+### 🛍️ eCommerce Website
+**💻 Personal Project**
+
+A personal eCommerce project built to practice web development skills and apply concepts related to online shopping experiences and responsive interfaces.
+
+**Role:** Web Developer
+
+---
+
+### ✈️ Travnu | Travel & Location Discovery Platform
+**🎓 DEPI | UI/UX Design Project**
+
+A travel discovery platform designed to help users explore destinations, discover popular attractions, and locate interesting places across different countries through an intuitive and user-friendly interface.
+
+**Role:** UI/UX Designer
+
+**Focus:** User Research · User Interface Design · User Experience · Travel Discovery
+
+</div>
+
+---
+
 
 
 
