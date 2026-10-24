@@ -173,19 +173,32 @@ A travel discovery platform designed to help users explore destinations, find po
 
 ---
 
+
 ---
 
 <div align="center">
 
 ## 📊 GitHub Statistics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C4B5FD&icon_color=A78BFA&text_color=E5E7EB&ring_color=C4B5FD&include_all_commits=true" alt="GitHub Stats" />
+<img
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api?username=fedaaamahmoud&show_icons=true&theme=midnight-purple&hide_border=true"
+  alt="GitHub Stats"
+/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=C4B5FD&text_color=E5E7EB" alt="Top Languages" />
+<img
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fedaaamahmoud&layout=compact&theme=midnight-purple&hide_border=true"
+  alt="Top Languages"
+/>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&hide_border=true&background=0D1117&ring=C4B5FD&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" alt="GitHub Streak" />
+<img
+  width="80%"
+  src="https://streak-stats.demolab.com/?user=fedaaamahmoud&theme=midnight-purple&hide_border=true"
+  alt="GitHub Streak"
+/>
 
 </div>
 
