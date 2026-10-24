@@ -182,13 +182,13 @@ A travel discovery platform designed to help users explore destinations, find po
 
 <img
   width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=fedaaamahmoud&show_icons=true&theme=midnight-purple&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api?username=fedaaamahmoud&show_icons=true&theme=tokyonight&hide_border=true"
   alt="GitHub Stats"
 />
 
 <img
   width="49%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fedaaamahmoud&layout=compact&theme=midnight-purple&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fedaaamahmoud&layout=compact&theme=tokyonight&hide_border=true"
   alt="Top Languages"
 />
 
@@ -196,7 +196,7 @@ A travel discovery platform designed to help users explore destinations, find po
 
 <img
   width="80%"
-  src="https://streak-stats.demolab.com/?user=fedaaamahmoud&theme=midnight-purple&hide_border=true"
+  src="https://streak-stats.demolab.com/?user=fedaaamahmoud&theme=tokyonight&hide_border=true"
   alt="GitHub Streak"
 />
 
