@@ -95,7 +95,6 @@ I'm a Computer Science graduate with a strong foundation in software development
 
 </div>
 
----
 
 ---
 
@@ -103,50 +102,72 @@ I'm a Computer Science graduate with a strong foundation in software development
 
 ## 🚀 Featured Projects
 
-### 🌿 LYVRA | AI-Powered Healthy Life Coach Platform
-**🎓 Graduation Project**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-An AI-powered healthy life coach platform designed to support users in building healthier lifestyles through personalized guidance and smart features.
+<h3 align="center">🌿 LYVRA</h3>
+<p align="center">
+<strong>AI-Powered Healthy Life Coach Platform</strong>
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Graduation_Project-6C45A5?style=flat-square" />
+<img src="https://img.shields.io/badge/Backend_Developer-302060?style=flat-square" />
+</p>
 
-**Role:** Backend Developer
+An AI-powered platform designed to support healthier lifestyles through personalized guidance and smart features.
 
----
+</td>
+<td width="50%" valign="top">
 
-### 🏥 Medical Management System
-**🏢 CCIC | Training Project**
+<h3 align="center">🏥 Medical Management System</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/CCIC-6C45A5?style=flat-square" />
+<img src="https://img.shields.io/badge/Backend_Developer-302060?style=flat-square" />
+</p>
 
-A medical management system developed during training, focusing on backend functionality, application logic, and database management.
+A medical management system developed during training, focusing on backend functionality and database management.
 
-**Role:** Backend Developer
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+<h3 align="center">📚 Book Store</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/CCIC-6C45A5?style=flat-square" />
+<img src="https://img.shields.io/badge/Frontend_Developer-302060?style=flat-square" />
+</p>
 
-### 📚 Book Store
-**🏢 CCIC | Training Project**
+A bookstore web application focused on responsive interfaces and a smooth user experience.
 
-A bookstore web application developed during training, focusing on responsive user interfaces and providing a smooth user experience.
+</td>
+<td width="50%" valign="top">
 
-**Role:** Frontend Developer
+<h3 align="center">🛍️ eCommerce Website</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Personal_Project-6C45A5?style=flat-square" />
+<img src="https://img.shields.io/badge/Web_Developer-302060?style=flat-square" />
+</p>
 
----
+A personal project built to practice web development and create an engaging online shopping experience.
 
-### 🛍️ eCommerce Website
-**💻 Personal Project**
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
-A personal eCommerce project built to practice web development skills and apply concepts related to online shopping experiences and responsive interfaces.
+<h3 align="center">✈️ Travnu | Travel & Location Discovery Platform</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/DEPI-6C45A5?style=flat-square" />
+<img src="https://img.shields.io/badge/UI%2FUX_Designer-302060?style=flat-square" />
+</p>
 
-**Role:** Web Developer
+A travel discovery platform designed to help users explore destinations, find popular attractions, and discover interesting places across different countries.
 
----
-
-### ✈️ Travnu | Travel & Location Discovery Platform
-**🎓 DEPI | UI/UX Design Project**
-
-A travel discovery platform designed to help users explore destinations, discover popular attractions, and locate interesting places across different countries through an intuitive and user-friendly interface.
-
-**Role:** UI/UX Designer
-
-**Focus:** User Research · User Interface Design · User Experience · Travel Discovery
+</td>
+</tr>
+</table>
 
 </div>
 
