@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./profile-banner.png" width="100%" alt="Fedaa Mahmoud - Full-Stack Web Developer" />
+  <img src="./profile-banner.png" width="85%" alt="Fedaa Mahmoud - Full-Stack Web Developer" />
 </div>
 <div align="center">
 
