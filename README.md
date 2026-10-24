@@ -14,11 +14,7 @@ Hi, I'm Fedaa Mahmoud 👋
 Full-Stack Web Developer | Frontend • Backend • UI/UX
 I enjoy building web applications from user-friendly interfaces to the functionality behind them.
 I'm always learning, experimenting with new technologies, and turning ideas into projects.
-<p>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+
 
 </div>
 
