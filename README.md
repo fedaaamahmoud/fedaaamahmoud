@@ -7,6 +7,23 @@
 <a href="mailto:mahmoudfedaa141@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
+<div align="center">
+  
+👋 Hey there, Welcome to my GitHub!
+
+### Software Engineer | Frontend Developer | Backend Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&color=A970FF&center=true&vCenter=true&width=750&lines=Computer+Science+Graduate;Building+Scalable+Backend+Systems;Laravel+%26+PHP+Developer;Creating+Responsive+Web+Interfaces;React+Frontend+Developer;UI%2FUX+Designer;Always+Learning+%26+Building" alt="Typing animation" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 👩‍💻 About Me
+
+</div>
 
 <div align="center">
 
