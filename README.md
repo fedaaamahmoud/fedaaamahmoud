@@ -58,26 +58,43 @@ I'm a Computer Science graduate with a strong foundation in software development
 
 ---
 
+
+---
+
 <div align="center">
 
 ## 🛠️ Technical Skills & Technologies
 
 ### 💻 Frontend Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" alt="Frontend Technologies" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,sass" alt="Frontend Technologies" />
 
 ### ⚙️ Backend Development
 
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,postman,composer,Docker,Git,GitHub,Linux" alt="Backend Technologies" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql" alt="Backend Technologies" />
+</p>
 
-### 🎨 UI/UX Design
+### 🧪 Backend Tools & API Testing
 
-<img src="https://skillicons.dev/icons?i=figma,ps,ai" alt="UI/UX Design" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,bash,npm,composer,phpstorm" alt="Backend Tools" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
+
+### 🎨 UI/UX Design & Creative Tools
+
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+<img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" />
+<img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator" />
 
 ### 🧠 Computer Science Core
 
 <img src="https://img.shields.io/badge/OOP-6C45A5?style=for-the-badge" alt="OOP" />
-<img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-6C45A5?style=for-the-badge" alt="Data Structures and Algorithms" />
+<img src="https://img.shields.io/badge/Data_Structures-6C45A5?style=for-the-badge" alt="Data Structures" />
+<img src="https://img.shields.io/badge/Algorithms-6C45A5?style=for-the-badge" alt="Algorithms" />
 <img src="https://img.shields.io/badge/Database_Systems-6C45A5?style=for-the-badge" alt="Database Systems" />
 <img src="https://img.shields.io/badge/Computer_Networks-6C45A5?style=for-the-badge" alt="Computer Networks" />
 <img src="https://img.shields.io/badge/Operating_Systems-6C45A5?style=for-the-badge" alt="Operating Systems" />
@@ -86,6 +103,9 @@ I'm a Computer Science graduate with a strong foundation in software development
 <img src="https://img.shields.io/badge/Discrete_Mathematics-6C45A5?style=for-the-badge" alt="Discrete Mathematics" />
 
 </div>
+
+---
+
 
 ---
 
