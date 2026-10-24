@@ -203,6 +203,25 @@ A travel discovery platform designed to help users explore destinations, find po
 </div>
 
 ---
+---
+
+<div align="center">
+
+## 🤝 Connect With Me
+
+<a href="https://www.linkedin.com/in/fedaa-mahmoud-b782962b6/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:mahmoudfedaa141@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/fedaaaamahmoud">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
+
+---
 
 
 
