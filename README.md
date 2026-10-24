@@ -1,60 +1,64 @@
 <div align="center">
 
-Hi there, I'm Fedaa Mahmoud 👋
-Full-Stack Web Developer | Frontend & Backend
-I enjoy turning ideas into useful web experiences — from clean, responsive interfaces to the logic that powers them.
+Hi, I'm Fedaa Mahmoud 👋
+Full-Stack Web Developer | Frontend • Backend • UI/UX
+I enjoy building web applications from user-friendly interfaces to the functionality behind them.
+I'm always learning, experimenting with new technologies, and turning ideas into projects.
 <p>
-  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20JavaScript-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Frontend: React and JavaScript" />
-  <img src="https://img.shields.io/badge/Backend-PHP%20%7C%20Laravel-777BB4?style=for-the-badge&logo=laravel&logoColor=white" alt="Backend: PHP and Laravel" />
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 </div>
 
-🌟 About Me
-- 🎓 Computer Science graduate with a passion for software development.
-- 🌐 I have worked on both frontend and backend projects, and enjoy understanding how the different parts of a web application work together.
-- 🎨 On the frontend, I have built responsive interfaces using HTML, CSS, JavaScript, and React.
-- 🎨 I also have a foundation in UI/UX design, with an interest in creating user-friendly, intuitive experiences.
-- ⚙️ On the backend, I have worked with PHP and Laravel, including application logic and API-related development.
-- 🗄️ I have experience working with databases such as MySQL.
-- 🧩 I enjoy exploring different technologies, solving problems, and continuously improving my coding skills.
-- 🤝 I value teamwork, learning from feedback, and building projects that solve real problems.
-💻 Skills & Technologies
-Languages
+👩‍💻 About Me
+- 🎓 Computer Science graduate passionate about software development.
+- 🌐 Interested in both frontend and backend development and how they work together to create complete web experiences.
+- ⚛️ Built frontend projects using HTML, CSS, JavaScript, and React.
+- ⚙️ Worked on backend projects using PHP and Laravel.
+- 🗄️ Familiar with relational databases, including MySQL.
+- 🎨 Have a foundation in UI/UX, with an interest in usability, clear layouts, and user-centered design.
+- 🧠 I enjoy learning new tools, solving problems, and improving the way I build and structure projects.
+- 🤝 I value collaboration, continuous learning, and writing maintainable code.
+🛠️ Tech Stack
+Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python" alt="HTML, CSS, JavaScript, PHP, Python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="HTML, CSS, JavaScript, React" />
 </p>
 
-Frameworks & Libraries
+Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,laravel" alt="React and Laravel" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql" alt="PHP, Laravel, MySQL" />
 </p>
 
-Design
-- UI/UX Fundamentals
-Database & Tools
+Tools & Design
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,postman,vscode" alt="MySQL, Git, GitHub, Postman, VS Code" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma" alt="Git, GitHub, Postman, VS Code, Figma" />
+</p>
+- **UI/UX:** Fundamentals of user-centered design and usability.
+
+📂 Featured Projects
+Project	Description	Focus
+LYVRA	Graduation project — a web application built as part of my final-year work.	Web development
+CCIC Medical Management System	Medical management system developed during training.	Backend development
+Frontend Projects	A collection of interface-focused projects built while practicing frontend development.	HTML, CSS, JavaScript, React
+
+
+I'll add repository links, screenshots, and setup instructions here as each project is ready to share.
+
+📊 GitHub Analytics
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" alt="Most used languages" />
 </p>
 
-🚀 Featured Projects
-✨ LYVRA — Graduation Project
-A web application developed as part of my graduation project.
-- Contributed to the application’s development.
-- Worked on backend functionality and application logic.
-- Tech: PHP / Laravel and other project technologies as applicable.
-🏥 CCIC Medical Management System
-A medical management system built during my training.
-- Worked on the backend side of the application.
-- Focused on the logic and functionality needed by the system.
-🧪 More Projects
-I’m organizing and publishing more of my frontend, backend, and practice projects here. Check back as I add project descriptions, technologies, screenshots, and setup instructions.
-🌱 Currently Growing
-- Building stronger frontend and backend foundations.
-- Practicing API development and database design.
-- Improving code quality, project structure, and documentation.
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
 <div align="center">
 
-Thanks for stopping by! 💜
-Always learning. Always building.
+Thanks for visiting my profile! 💜
+Keep learning. Keep building. Keep growing.
 </div>
