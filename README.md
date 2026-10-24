@@ -65,7 +65,7 @@ I'm a Computer Science graduate with a strong foundation in software development
 
 ### 💻 Frontend Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,sass" alt="Frontend Technologies" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap" alt="Frontend Technologies" />
 
 ### ⚙️ Backend Development
 
@@ -75,11 +75,11 @@ I'm a Computer Science graduate with a strong foundation in software development
 
 ### 🧪 Backend Tools & API Testing
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,bash,npm,composer,phpstorm,postman" alt="Backend Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,bash,npm,aws,phpstorm,postman" alt="Backend Tools" />
 
 ### 🎨 UI/UX Design & Creative Tools
 
-<img src="https://skillicons.dev/icons?i=figma,ps,ai" alt="UI/UX Design" />
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,notion" alt="UI/UX Design" />
 
 ### 🧠 Computer Science Core
 
