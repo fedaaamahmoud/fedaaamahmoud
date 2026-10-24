@@ -57,8 +57,6 @@ I'm a Computer Science graduate with a strong foundation in software development
 
 
 ---
-
-
 ---
 
 <div align="center">
@@ -77,18 +75,11 @@ I'm a Computer Science graduate with a strong foundation in software development
 
 ### 🧪 Backend Tools & API Testing
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,bash,npm,composer,phpstorm" alt="Backend Tools" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,bash,npm,composer,phpstorm,postman" alt="Backend Tools" />
 
 ### 🎨 UI/UX Design & Creative Tools
 
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-<img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" />
-<img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator" />
+<img src="https://skillicons.dev/icons?i=figma,ps,ai" alt="UI/UX Design" />
 
 ### 🧠 Computer Science Core
 
