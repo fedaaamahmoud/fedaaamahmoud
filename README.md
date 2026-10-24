@@ -49,15 +49,9 @@ I'm a Computer Science graduate with a strong foundation in software development
 
 &bull; ⚙️ **Backend Development:** I have hands-on project experience in backend development, working with **PHP, Laravel, and MySQL** to build application logic, manage databases, and develop backend functionality.
 
-<br/><br/>
-
 &bull; 🎨 **UI/UX Design:** I have a foundational understanding of UI/UX principles, user-centered design, and creating intuitive digital experiences.
 
-<br/><br/>
-
 &bull; 🚀 **Passionate About:** Turning ideas into practical solutions, continuously improving my technical skills, and exploring how different areas of computer science come together to build reliable, efficient, and scalable applications.
-
-<br/><br/>
 
 &bull; 🎯 **My Goal:** To grow as a software engineer by combining strong CS fundamentals with practical development experience and a continuous learning mindset.
 
