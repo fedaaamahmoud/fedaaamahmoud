@@ -40,19 +40,29 @@ I'm a Computer Science graduate with a strong foundation in software development
 
 </div>
 
+
 <div align="left">
 
-💻 **Frontend Development:** I have studied frontend technologies and applied my knowledge by building web projects, focusing on responsive layouts, user-friendly interfaces, and clean code.
+&bull; 💻 **Frontend Development:** I have studied frontend technologies and applied my knowledge by building web projects, focusing on responsive layouts, user-friendly interfaces, and clean code.
 
-⚙️ **Backend Development:** I have hands-on project experience in backend development, working with **PHP, Laravel, and MySQL** to build application logic, manage databases, and develop backend functionality.
+<br/><br/>
 
-🎨 **UI/UX Design:** I have a foundational understanding of UI/UX principles, user-centered design, and creating intuitive digital experiences.
+&bull; ⚙️ **Backend Development:** I have hands-on project experience in backend development, working with **PHP, Laravel, and MySQL** to build application logic, manage databases, and develop backend functionality.
 
-🚀 **Passionate About:** Turning ideas into practical solutions, continuously improving my technical skills, and exploring how different areas of computer science come together to build reliable, efficient, and scalable applications.
+<br/><br/>
 
-🎯 **My Goal:** To grow as a software engineer by combining strong CS fundamentals with practical development experience and a continuous learning mindset.
+&bull; 🎨 **UI/UX Design:** I have a foundational understanding of UI/UX principles, user-centered design, and creating intuitive digital experiences.
+
+<br/><br/>
+
+&bull; 🚀 **Passionate About:** Turning ideas into practical solutions, continuously improving my technical skills, and exploring how different areas of computer science come together to build reliable, efficient, and scalable applications.
+
+<br/><br/>
+
+&bull; 🎯 **My Goal:** To grow as a software engineer by combining strong CS fundamentals with practical development experience and a continuous learning mindset.
 
 </div>
+
 
 
 🛠️ Tech Stack
