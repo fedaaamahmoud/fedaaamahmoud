@@ -5,6 +5,15 @@
 <a href="https://github.com/fedaaaamahmoud"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/fedaa-mahmoud-b782962b6/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:mahmoudfedaa141@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="YOUR_CV_LINK">
+  <img src="https://img.shields.io/badge/View_My_CV-6C45A5?style=for-the-badge&logo=readthedocs&logoColor=white" alt="View My CV" />
+</a>
+<a href="YOUR_CERTIFICATES_LINK">
+  <img src="https://img.shields.io/badge/Certificates-8B5CF6?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Certificates" />
+</a>
+<a href="YOUR_PORTFOLIO_LINK">
+  <img src="https://img.shields.io/badge/My_Portfolio-302060?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="My Portfolio" />
+</a>
 
 </div>
 <div align="center">
