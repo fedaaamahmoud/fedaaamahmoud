@@ -45,8 +45,6 @@ I'm a Computer Science graduate with a strong foundation in software development
 
 &bull; 💻 **Frontend Development:** I have studied frontend technologies and applied my knowledge by building web projects, focusing on responsive layouts, user-friendly interfaces, and clean code.
 
-<br/><br/>
-
 &bull; ⚙️ **Backend Development:** I have hands-on project experience in backend development, working with **PHP, Laravel, and MySQL** to build application logic, manage databases, and develop backend functionality.
 
 &bull; 🎨 **UI/UX Design:** I have a foundational understanding of UI/UX principles, user-centered design, and creating intuitive digital experiences.
