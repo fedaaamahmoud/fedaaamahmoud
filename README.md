@@ -56,6 +56,34 @@ I'm a Computer Science graduate with a strong foundation in software development
 </div>
 
 
+---
+
+<div align="center">
+
+## 🛠️ Technical Skills & Technologies
+
+### 💻 Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" alt="Frontend Skills" />
+
+### ⚙️ Backend Development
+
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql" alt="Backend Skills" />
+
+### 🎨 UI/UX Design
+
+<img src="https://skillicons.dev/icons?i=figma" alt="UI UX Design" />
+
+### 🔧 Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" alt="Tools and Platforms" />
+
+</div>
+
+---
+
+
+
 
 🛠️ Tech Stack
 Frontend Development
@@ -72,13 +100,7 @@ Tools & Design
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma" alt="Git, GitHub, Postman, VS Code, Figma" />
 </p>
-- **UI/UX:** Fundamentals of user-centered design and usability.
 
-📂 Featured Projects
-Project	Description	Focus
-LYVRA	Graduation project — a web application built as part of my final-year work.	Web development
-CCIC Medical Management System	Medical management system developed during training.	Backend development
-Frontend Projects	A collection of interface-focused projects built while practicing frontend development.	HTML, CSS, JavaScript, React
 
 
 I'll add repository links, screenshots, and setup instructions here as each project is ready to share.
