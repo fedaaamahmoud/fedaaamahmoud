@@ -64,23 +64,31 @@ I'm a Computer Science graduate with a strong foundation in software development
 
 ### 💻 Frontend Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" alt="Frontend Skills" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" alt="Frontend Technologies" />
 
 ### ⚙️ Backend Development
 
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql" alt="Backend Skills" />
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,postman,composer,Docker,Git,GitHub,Linux" alt="Backend Technologies" />
 
 ### 🎨 UI/UX Design
 
-<img src="https://skillicons.dev/icons?i=figma" alt="UI UX Design" />
+<img src="https://skillicons.dev/icons?i=figma,ps,ai" alt="UI/UX Design" />
 
-### 🔧 Tools & Platforms
+### 🧠 Computer Science Core
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" alt="Tools and Platforms" />
+<img src="https://img.shields.io/badge/OOP-6C45A5?style=for-the-badge" alt="OOP" />
+<img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-6C45A5?style=for-the-badge" alt="Data Structures and Algorithms" />
+<img src="https://img.shields.io/badge/Database_Systems-6C45A5?style=for-the-badge" alt="Database Systems" />
+<img src="https://img.shields.io/badge/Computer_Networks-6C45A5?style=for-the-badge" alt="Computer Networks" />
+<img src="https://img.shields.io/badge/Operating_Systems-6C45A5?style=for-the-badge" alt="Operating Systems" />
+<img src="https://img.shields.io/badge/Software_Engineering-6C45A5?style=for-the-badge" alt="Software Engineering" />
+<img src="https://img.shields.io/badge/Computer_Architecture-6C45A5?style=for-the-badge" alt="Computer Architecture" />
+<img src="https://img.shields.io/badge/Discrete_Mathematics-6C45A5?style=for-the-badge" alt="Discrete Mathematics" />
 
 </div>
 
 ---
+
 
 
 
