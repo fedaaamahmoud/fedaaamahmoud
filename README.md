@@ -38,27 +38,23 @@
 
 I'm a Computer Science graduate with a strong foundation in software development, problem-solving, and core computer science concepts. My academic journey introduced me to essential topics such as Data Structures & Algorithms, Object-Oriented Programming (OOP), Database Systems, Operating Systems, Computer Networks, and Software Engineering.
 
-💻 Frontend Development: I have studied frontend technologies and applied my knowledge by building web projects, focusing on responsive layouts, user-friendly interfaces, and clean code.
+</div>
 
-⚙️ Backend Development: I have hands-on project experience in backend development, working with PHP, Laravel, and MySQL to build application logic, manage databases, and develop backend functionality.
+<div align="left">
 
-🎨 UI/UX Design: I have a foundational understanding of UI/UX principles, user-centered design, and creating intuitive digital experiences.
+💻 **Frontend Development:** I have studied frontend technologies and applied my knowledge by building web projects, focusing on responsive layouts, user-friendly interfaces, and clean code.
 
-🚀 I'm passionate about turning ideas into practical solutions, continuously improving my technical skills, and exploring how different areas of computer science come together to build reliable, efficient, and scalable applications.
+⚙️ **Backend Development:** I have hands-on project experience in backend development, working with **PHP, Laravel, and MySQL** to build application logic, manage databases, and develop backend functionality.
 
-My goal: To grow as a software engineer by combining strong CS fundamentals with practical development experience and a continuous learning mindset.
+🎨 **UI/UX Design:** I have a foundational understanding of UI/UX principles, user-centered design, and creating intuitive digital experiences.
+
+🚀 **Passionate About:** Turning ideas into practical solutions, continuously improving my technical skills, and exploring how different areas of computer science come together to build reliable, efficient, and scalable applications.
+
+🎯 **My Goal:** To grow as a software engineer by combining strong CS fundamentals with practical development experience and a continuous learning mindset.
 
 </div>
 
-👩‍💻 About Me
-- 🎓 Computer Science graduate passionate about software development.
-- 🌐 Interested in both frontend and backend development and how they work together to create complete web experiences.
-- ⚛️ Built frontend projects using HTML, CSS, JavaScript, and React.
-- ⚙️ Worked on backend projects using PHP and Laravel.
-- 🗄️ Familiar with relational databases, including MySQL.
-- 🎨 Have a foundation in UI/UX, with an interest in usability, clear layouts, and user-centered design.
-- 🧠 I enjoy learning new tools, solving problems, and improving the way I build and structure projects.
-- 🤝 I value collaboration, continuous learning, and writing maintainable code.
+
 🛠️ Tech Stack
 Frontend Development
 <p>
