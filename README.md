@@ -98,32 +98,10 @@ I'm a Computer Science graduate with a strong foundation in software development
 ---
 
 
----
-
-
-
-
-
-🛠️ Tech Stack
-Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="HTML, CSS, JavaScript, React" />
-</p>
-
-Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql" alt="PHP, Laravel, MySQL" />
-</p>
-
-Tools & Design
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma" alt="Git, GitHub, Postman, VS Code, Figma" />
-</p>
 
 
 
 I'll add repository links, screenshots, and setup instructions here as each project is ready to share.
-
 
 
 <div align="center">
