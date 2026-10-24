@@ -1,4 +1,7 @@
 <div align="center">
+  <img src="./profile-banner.png" width="100%" alt="Fedaa Mahmoud - Full-Stack Web Developer" />
+</div>
+<div align="center">
 
 Hi, I'm Fedaa Mahmoud 👋
 Full-Stack Web Developer | Frontend • Backend • UI/UX
