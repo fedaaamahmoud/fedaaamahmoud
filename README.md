@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302060,50:6C45A5,100:171923&height=200&section=header&text=Fedaa%20Mahmoud&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20Frontend%20%7C%20Backend&descSize=14&descAlignY=58&animation=fadeIn" width="100%" alt="Fedaa Mahmoud Banner" />
 
-<a href="https://github.com/fedaaaamahmoud"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://github.com/fedaaamahmoud"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/fedaa-mahmoud-b782962b6/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:mahmoudfedaa141@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="YOUR_CV_LINK">
@@ -215,7 +215,7 @@ A travel discovery platform designed to help users explore destinations, find po
 <a href="mailto:mahmoudfedaa141@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://github.com/fedaaaamahmoud">
+<a href="https://github.com/fedaaamahmoud">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
