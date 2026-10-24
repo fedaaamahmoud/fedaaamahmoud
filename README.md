@@ -173,6 +173,25 @@ A travel discovery platform designed to help users explore destinations, find po
 
 ---
 
+---
+
+<div align="center">
+
+## 📊 GitHub Statistics
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=fedaaaamahmoud&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" alt="GitHub Stats" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fedaaaamahmoud&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Languages" />
+
+<br/><br/>
+
+<img width="80%" src="https://streak-stats.demolab.com?user=fedaaaamahmoud&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+
 
 
 
