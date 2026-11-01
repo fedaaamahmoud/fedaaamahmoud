@@ -203,7 +203,15 @@ A travel discovery platform designed to help users explore destinations, find po
 ---
 ---
 
+💻 Coding Activity
+
 <div align="center">
+  <img
+    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=fedaaamahmoud&theme=tokyo-night&hide_border=true&area=true"
+    alt="Coding Activity Graph"
+  />
+</div>
 
 ## 🤝 Connect With Me
 
