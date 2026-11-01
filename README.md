@@ -180,27 +180,26 @@ A travel discovery platform designed to help users explore destinations, find po
 
 ## 📊 GitHub Statistics
 
-<img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=fedaaamahmoud&show_icons=true&theme=tokyonight&hide_border=true"
-  alt="GitHub Stats"
-/>
+<p align="center">
+  <img
+    width="49%"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=fedaaamahmoud&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+  />
+  <img
+    width="49%"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fedaaamahmoud&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
 
-<img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fedaaamahmoud&layout=compact&theme=tokyonight&hide_border=true"
-  alt="Top Languages"
-/>
-
-<br/><br/>
-
-<img
-  width="80%"
-  src="https://streak-stats.demolab.com/?user=fedaaamahmoud&theme=tokyonight&hide_border=true"
-  alt="GitHub Streak"
-/>
-
-</div>
+<p align="center">
+  <img
+    width="80%"
+    src="https://streak-stats.demolab.com/?user=fedaaamahmoud&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
 
 ---
 ---
