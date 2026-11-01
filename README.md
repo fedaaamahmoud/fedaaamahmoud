@@ -182,13 +182,13 @@ A travel discovery platform designed to help users explore destinations, find po
 
 <p align="center">
   <img
-    width="80%"
+    width="49%"
     src="https://github-stats-extended.vercel.app/api?username=fedaaamahmoud&show_icons=true&theme=tokyonight&hide_border=true"
     alt="GitHub Stats"
   />
   <br/>
   <img
-    width="80%"
+    width="49%"
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=fedaaamahmoud&layout=compact&theme=tokyonight&hide_border=true"
     alt="Top Languages"
   />
